@@ -1,0 +1,5 @@
+import pandas as pd
+import numpy as np
+
+marks = [70, 80, 90]
+print(np.mean(marks))X
